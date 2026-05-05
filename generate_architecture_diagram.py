@@ -8,8 +8,11 @@ Generates a single, complete PNG architecture diagram with:
   - Ports & protocols on every connection
   - Azure-native icon representations (via mingrammer/diagrams)
 
-Usage:
+Requirements:
+    Python >= 3.9
     pip install diagrams          # requires graphviz system package
+
+Usage:
     python generate_architecture_diagram.py
 
 Output:

@@ -1,0 +1,5 @@
+# DriveTech Architecture Diagram Generator
+# Requires Python >= 3.9
+
+diagrams>=0.24
+graphviz>=0.20
