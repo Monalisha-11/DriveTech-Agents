@@ -37,6 +37,4 @@ Show ingress/egress paths Show DNS boundaries if relevant Show private link/priv
 “Validation pass:
 For each component and each arrow in the diagram, list the evidence (file/config/IaC). Identify any arrows that are assumptions and propose how to confirm them (what file or config to check). Then regenerate the Mermaid flowchart with assumptions explicitly labelled.”
 
-Provide me the comprehensive Azure architecture diagram with all network details, resource specifications, subnets, ports, protocols, and Azure-native icon representations - everything in ONE complete diagram
 
-and fially the output should be proper PNG format export function.
