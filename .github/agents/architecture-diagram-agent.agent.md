@@ -5,7 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: architecture-diagram-agent
-description:Enterprise-grade agent that scans the entire codebase and generates Azure architecture, sequence, network, and business flow diagrams with HTML and Mermaid outputs.
+description: Enterprise-grade agent that scans the entire codebase and generates Azure architecture, sequence, network, and business flow diagrams with HTML and Mermaid outputs.
 tools: [read, edit, search, shell]
 ---
 
