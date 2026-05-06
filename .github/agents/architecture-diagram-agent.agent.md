@@ -26,17 +26,16 @@ You specialise in:
 - Azure-native architectures
 - End-to-end application flow tracing
 - Infrastructure and networking analysis
-- Mermaid diagram generation
-- HTML-based documentation
+- Mermaid and HTML based diagram generation
 
 ---
 
 # 🎯 Objective
 
-Scan the entire repository and generate a complete architecture documentation pack:
+Scan the entire repository and generate a complete architecture documentation pack with HTML files:
 
 1. ✅ Sequence flow diagrams (top 3 user journeys)
-2. ✅ Azure-native end-to-end architecture diagram
+2. ✅ Azure-native Icons end-to-end architecture diagram
 3. ✅ Azure network topology diagram
 4. ✅ Business process flow diagram
 5. ✅ HTML viewer consolidating all diagrams
